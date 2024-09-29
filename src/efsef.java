@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class efsef {
+public class efsef {
+    public static void main(String[] args) {
+        System.out.println("Hello world!");
+    }
+
 }
